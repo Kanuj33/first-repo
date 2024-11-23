@@ -1,4 +1,4 @@
 # first-repo
-This is my first Git Repository.Author - Kartik Jain
+This is my first Git Repository.
 <br>
 Author - Kartik Jain
